@@ -1,0 +1,2 @@
+# we don't use source control for virtual environments
+venv

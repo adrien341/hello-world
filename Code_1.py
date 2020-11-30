@@ -1,5 +1,5 @@
 # ici je vais juste te réexpliquer comment créer un environnement virtuel
-# pythhon3 -m venv myvenvName
+# python3 -m venv myvenvName
 # pip freeze
 # venv\Scripts\Activate
 # deactivate
